@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#909090</color>
+    <color name="colorAccent">#e5e5e5</color>
+    <color name="backgroundcolor1">#4f8ad9</color>
+    <color name="agecolor1">#ffc000</color>
+    <color name="agecolor2">#6415d5</color>
+    <color name="backgroundcolor2">#ace7f0</color>
+    <color name="backgroundcolor3">#f5f5dc</color>
+    <color name="energycolor"> #48f31d </color>
+
+
+</resources>
