@@ -9,18 +9,17 @@ TuCyute brings a new virtual pet and casual mobile gaming experience.
 
 Features include:
 
-Talk to your TuCyute
-Feed your TuCyute
-Play with your TuCyute
-Dress your TuCyute
-Customize your TuCyute
-Grow your TuCyute
-Exercise your TuCyute
-Teach your TuCyute
-Rest your TuCyute
-Share your TuCyute
-Shop with your TuCyute
-Travel with your TuCyute
-Take pictures with your TuCyute
-Earn Treats
-Set Goals
+Talk to your TuCyute,
+Feed your TuCyute,
+Play with your TuCyute,
+Dress your TuCyute,
+Customize your TuCyute,
+Grow your TuCyute,
+Exercise your TuCyute,
+Teach your TuCyute,
+Rest your TuCyute,
+Share your TuCyute,
+Shop with your TuCyute,
+Explore with your TuCyute,
+Take pictures with your TuCyute,
+Earn & Spend Treats.
