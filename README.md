@@ -22,7 +22,7 @@ TuCyute brings a new virtual pet and casual mobile gaming experience.
 - [ ] Explore with your TuCyute
 - [ ] Explore with your TuCyute
 
-#Video Sample
+# Video Sample
 Youtube Video Example.
 
 https://www.youtube.com/watch?v=J002sPZTN24&feature=youtu.be
