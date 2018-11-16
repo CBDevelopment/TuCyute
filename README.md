@@ -21,3 +21,10 @@ TuCyute brings a new virtual pet and casual mobile gaming experience.
 - [ ] Shop with your TuCyute
 - [ ] Explore with your TuCyute
 - [ ] Explore with your TuCyute
+
+#Screenshots
+
+<img src="/screenshots/image2.png" width="260" height="480">  <img src="/screenshots/image1.png" width="260" height="480">
+<img src="/screenshots/image3.png" width="260" height="480">  
+
+#Video Sample
