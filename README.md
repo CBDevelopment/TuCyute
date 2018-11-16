@@ -22,10 +22,7 @@ TuCyute brings a new virtual pet and casual mobile gaming experience.
 - [ ] Explore with your TuCyute
 - [ ] Explore with your TuCyute
 
-#Screenshots
-
-<img src="https://github.com/CBDevelopment/TuCyute/tree/master/screenshots/image2.png width="260" height="480">  <img src="/screenshots/image1.png" width="260" height="480">
-<img src="/screenshots/image3.png" width="260" height="480">  
-
 #Video Sample
+Youtube Video Example.
+
 https://www.youtube.com/watch?v=J002sPZTN24&feature=youtu.be
