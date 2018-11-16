@@ -28,3 +28,4 @@ TuCyute brings a new virtual pet and casual mobile gaming experience.
 <img src="/screenshots/image3.png" width="260" height="480">  
 
 #Video Sample
+https://www.youtube.com/watch?v=J002sPZTN24&feature=youtu.be
