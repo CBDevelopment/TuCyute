@@ -20,7 +20,6 @@ TuCyute brings a new virtual pet and casual mobile gaming experience.
 - [ ] Share your TuCyute
 - [ ] Shop with your TuCyute
 - [ ] Explore with your TuCyute
-- [ ] Explore with your TuCyute
 
 # Video Sample
 Youtube Video Example.
